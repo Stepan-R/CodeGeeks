@@ -1,0 +1,16 @@
+.layout {
+  display: flex;
+  align-items: flex-start;
+  transition: all 0.5s ease;
+  justify-content: center;
+  gap: 24px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 100px;
+}

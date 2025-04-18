@@ -1,0 +1,21 @@
+.form_block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.input {
+  width: 500px;
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 18px;
+  font-size: large;
+  padding-right: 24px;
+}
+
+.btn {
+  width: 500px;
+  height: 50px;
+}
